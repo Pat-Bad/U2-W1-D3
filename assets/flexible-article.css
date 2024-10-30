@@ -1,0 +1,22 @@
+article{display:flex;
+    align-items:center;
+    width: 700px;
+    height: 230px;
+    background-color:rgba(231, 191, 9, 0.623);
+    border-radius: 20px;
+    margin: 2rem;}
+    
+section{display:flex;
+width:600px;
+
+align-items: flex-start;}
+
+img{width:300px;
+}
+
+section div{margin:1rem;}
+
+section div:last-of-type{padding-top:1rem;}
+
+H1{margin-bottom:0.5rem;
+font-weight:bold;}

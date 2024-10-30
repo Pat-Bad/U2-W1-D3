@@ -1,0 +1,5 @@
+article{display:flex;
+flex-direction:column-reverse;
+background-color:rgba(231, 191, 9, 0.623);
+border-radius: 20px;
+width:800px;}
