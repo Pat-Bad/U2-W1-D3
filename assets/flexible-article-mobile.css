@@ -1,5 +1,23 @@
+
+body{background-color:rgba(231, 191, 9, 0.623);}
+
 article{display:flex;
 flex-direction:column-reverse;
-background-color:rgba(231, 191, 9, 0.623);
+justify-content:flex-end;
+width:400px;
+
 border-radius: 20px;
-width:800px;}
+width:800px;
+margin: 0 auto;
+height:600px;}
+
+H1{margin-bottom:0.5rem;
+    font-weight:bold;}
+
+section{width:650px;
+display:flex;
+flex-direction:column-reverse;}
+
+section div{margin:1rem;}
+
+section div:last-of-type{padding-top:1rem;}
